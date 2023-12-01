@@ -1,0 +1,63 @@
+*Date*
+Date of participation 
+
+*Age*
+Participants' age
+
+*Nat_lan*
+Participants' native language(s) 
+
+*Sex*
+Participants' biological sex
+
+*Exp_phon*
+Participants' experience with phonetic transcription
+
+*Johnny_tran*
+Raw transcription as provided by participants
+
+*Johnny_CVCV*
+Would-be phonemic sequence
+
+*Johnny_C1*
+Johnny's first (word-initial) would-be consonant 
+
+*Johnny_V1*
+Johnny's first (word-initial) would-be vowel
+
+*Johnny_C2*
+Johnny's second (word-final) would-be consonant 
+
+*Johnny_V2*
+Johnny's second (word-final) would-be vowel
+
+*Renata_tran*
+Raw transcription as provided by participant
+
+*Renata_CVCV*
+Would-be phonemic sequence
+
+*Renata_C1*
+Renata's first (word-initial) would-be consonant 
+
+*Renata_V1*
+Renata's first (word-initial) would-be vowel
+
+*Renata_C2*
+Renata's second (word-final) would-be consonant 
+
+*Renata_V2*
+Renata's second (word-final) would-be vowel 
+
+*Renata_C1(lib)*
+Renata's first (word-initial) would-be consonant (liberal interpretation, see S1)
+
+*Renata_V1(lib)*
+Renata's first (word-initial) would-be vowel (liberal interpretation, see S1)
+
+*Renata_C2(lib)*
+Renata's second (word-final) would-be consonant (liberal interpretation, see S1)
+
+*Renata_V1(lib)*
+Renata's second (word-final) would-be vowel (liberal interpretation, see S1)
+

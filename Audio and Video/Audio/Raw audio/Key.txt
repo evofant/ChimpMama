@@ -1,0 +1,3 @@
+Johnny.wav and Renata.wav are sound files derived from video files (found in RawVideo folder). 
+
+Timestamps denote starting time of each segment (found in the Audio segments folder). 

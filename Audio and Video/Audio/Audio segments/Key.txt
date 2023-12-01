@@ -1,0 +1,3 @@
+Each .wav file is segmented from respective raw audio files (found in the Raw audio folder). 
+
+Timestamps are available in the "Raw audio" folder. 

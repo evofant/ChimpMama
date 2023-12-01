@@ -1,0 +1,6 @@
+1.	mama	1.9763	interferring noise, squeaking
+2. 	mama	3.4041	
+3. 	mama	5.4864
+4. 	ma	6.9540	interferring noise, human speech
+5.	ma	7.6229
+6.	mama	8.7983
